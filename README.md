@@ -17,7 +17,8 @@ zuipop 1.0  2014/12/08
 
 附例：
 一个完整的泡泡使用示例：pop.html
-<pre>
+
+```html
 <div class="zuipop-container">
     	<div class="zuipopgroup">
             <div class="zuipop">
@@ -34,10 +35,11 @@ zuipop 1.0  2014/12/08
             </div>
         </div>
 </div>
-</pre>
+```
 
 修改皮肤颜色：skinsample.html
-<pre>
+
+```html
 <style>
 .blueborder{
 	border-color:blue !important;
@@ -72,4 +74,4 @@ zuipop 1.0  2014/12/08
 		</div>
 	</div>
 </div>
-</pre>
+```
