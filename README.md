@@ -15,8 +15,6 @@ zuipop 1.0  2014/12/08
 9.组件自带的zuipop前缀，可以防止CSS冲突   
 10.如果去掉头或尾后发现圆角被覆盖的情况，请给zuipop-panel-content附加上圆角的样式。  
 （这种情况一般出现在去掉头尾，然后给zuipop-panel-content加上背景色的时候发生）  
-11.[IE8 Only]Bootstrap中的IE8兼容JS脚本会对泡泡尾巴部分产生影响，变成怪异模式撑开父层会，
-如果你的尾巴加了背景色就可以看出来，请自行添加JS调整尾巴的宽度来适应Bootstrap。
 
 
 附例：   
